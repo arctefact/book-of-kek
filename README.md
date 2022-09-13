@@ -12,7 +12,7 @@ The **Book Of Kek** is an open repository that aims to tell the fascinating stor
 
 In this book we aggregated as much information, links and tutorials as possible, with the goal to present not only Pepe's history, but also the lore surrounding [Rare Pepes](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), [Fake Rares and Dank Rares](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) (NFT trading cards on the [Counterparty](chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/) Blockchain), as well as the [latest news](pepe-news-outlet/) from the wider Pepe community.&#x20;
 
-We invite you to take a deep dive down the Pepe frog hole... 🐸 embrace yourself with hugs and cobbee
+We invite you to take a deep dive down the Pepe frog hole, see you on the fake realm... 🐸 
 
 ## Who are the authors?
 
